@@ -2,7 +2,7 @@
 
 React component to create a responsive modern event timeline
 
-<img width="723" alt="Screenshot 2023-08-09 at 11 33 18 PM" src="https://github.com/gagantripathi22/react-modern-timeline/assets/32246605/01c35200-5791-4c57-b737-7d7c46829594">
+![react-modern-timeline screenshot](https://github.com/gagantripathi22/react-modern-timeline/assets/32246605/c6de5941-98c2-45ff-8967-8d09d0260641)
 
 ## Features
 
