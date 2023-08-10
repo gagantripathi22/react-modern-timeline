@@ -8,9 +8,10 @@ const TimelineEvent = (props) => {
   const titleStyle = StyleContextData.titleStyle;
   const contentStyle = StyleContextData.contentStyle;
   const containerStyle = StyleContextData.containerStyle;
+  const iconContainerStyle = StyleContextData.iconContainer;
   return (
     <div className="timeline-event">
-      <span className="event-icon-area">
+      <span className="event-icon-area" style={iconContainerStyle}>
         <span
           className="icon-circle"
           style={{ backgroundColor: iconColor }}

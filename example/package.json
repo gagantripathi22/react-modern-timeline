@@ -31,5 +31,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "dependencies": {
+    "react-modern-timeline": "^1.0.6"
   }
 }

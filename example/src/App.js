@@ -1,5 +1,5 @@
 import './App.css';
-import { ReactModernTimeline, TimelineEvent } from 'react-modern-timeline';
+import { ReactModernTimeline, TimelineEvent } from './ReactModernTimeline';
 
 function App() {
   return (
