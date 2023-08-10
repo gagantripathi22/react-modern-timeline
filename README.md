@@ -4,8 +4,6 @@ React component to create a responsive modern event timeline
 
 ![react-modern-timeline screenshot](https://github.com/gagantripathi22/react-modern-timeline/assets/32246605/c6de5941-98c2-45ff-8967-8d09d0260641)
 
-![react-modern-timeline screenshot](https://github.com/gagantripathi22/react-modern-timeline/assets/32246605/c6de5941-98c2-45ff-8967-8d09d0260641)
-
 ## Features
 
 - Lightweight
